@@ -1,0 +1,3 @@
+/Users/wamess/cg-hw/hw7/build/CMakeFiles/RayTracing.dir
+/Users/wamess/cg-hw/hw7/build/CMakeFiles/edit_cache.dir
+/Users/wamess/cg-hw/hw7/build/CMakeFiles/rebuild_cache.dir
